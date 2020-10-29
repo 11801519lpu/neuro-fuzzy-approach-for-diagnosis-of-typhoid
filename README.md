@@ -1,0 +1,1 @@
+# neuro-fuzzy-approach-for-diagnosis-of-typhoid
